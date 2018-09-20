@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.cocos2dx.Pena Saves Mexico" version="1.0.0">
+    <ui-application appid="org.cocos2dx.Pena Saves Mexico" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>Pena Saves Mexico</label>
+        <icon>Pena Saves Mexico.png</icon>
+    </ui-application>
+</manifest>

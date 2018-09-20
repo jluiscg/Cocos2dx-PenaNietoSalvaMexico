@@ -1,0 +1,4 @@
+General
+	*Tamaño reducido para eliminar espacios vacios
+Ataque
+	*Se mejoro, ampliando el tamaño de la banda presidencial
